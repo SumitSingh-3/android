@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="product"
+            type="in.dropshoptask.modal.ProductData" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/brandNameLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/brandNameLabel"
+            android:textSize="@dimen/labelSize"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/brandName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@{product.brandName}"
+            android:textColor="@color/contentColor"
+            android:textSize="@dimen/contentSize"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/brandNameLabel"
+            tools:text="@string/brandName" />
+
+        <TextView
+            android:id="@+id/productDesLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/productDescLabel"
+            android:textSize="@dimen/labelSize"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/brandName" />
+
+        <TextView
+            android:id="@+id/productDes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@{product.productDesc}"
+            android:textSize="@dimen/contentSize"
+            android:textColor="@color/contentColor"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/productDesLabel"
+            tools:text="@string/productDesc" />
+
+        <TextView
+            android:id="@+id/productIdLabel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/productIdLabel"
+            android:textSize="@dimen/labelSize"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@+id/productCodeLabel"
+            app:layout_constraintTop_toBottomOf="@+id/productDes" />
+
+        <TextView
+            android:id="@+id/productCodeLabel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/productCodeLabel"
+            android:textSize="@dimen/labelSize"
+            app:layout_constraintLeft_toRightOf="@+id/productId"
+            app:layout_constraintRight_toLeftOf="@+id/brandCodeLabel"
+            app:layout_constraintTop_toBottomOf="@+id/productDes" />
+
+        <TextView
+            android:id="@+id/brandCodeLabel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/brandCodeLabel"
+            android:textSize="@dimen/labelSize"
+            app:layout_constraintLeft_toRightOf="@+id/productCodeLabel"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/productDes" />
+
+        <TextView
+            android:id="@+id/productId"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@{product.productId}"
+            android:textColor="@color/contentColor"
+            android:textSize="@dimen/contentSize"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@+id/productCode"
+            app:layout_constraintTop_toBottomOf="@+id/productIdLabel"
+            tools:text="@string/productId" />
+
+        <TextView
+            android:id="@+id/productCode"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@{String.valueOf(product.productCode)}"
+            android:textColor="@color/contentColor"
+            android:textSize="@dimen/contentSize"
+            app:layout_constraintLeft_toRightOf="@+id/productId"
+            app:layout_constraintRight_toLeftOf="@+id/brandCode"
+            app:layout_constraintTop_toBottomOf="@+id/productCodeLabel"
+            tools:text="@string/productCode" />
+
+        <TextView
+            android:id="@+id/brandCode"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@{product.brandCode}"
+            android:textColor="@color/contentColor"
+            android:textSize="@dimen/contentSize"
+            app:layout_constraintLeft_toRightOf="@+id/productCode"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/brandCodeLabel"
+            tools:text="@string/brandCode" />
+
+        <TextView
+            android:id="@+id/mrpLabel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/mrpLabel"
+            android:textSize="@dimen/labelSize"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@+id/productCodeLabel"
+            app:layout_constraintTop_toBottomOf="@+id/productId" />
+
+        <TextView
+            android:id="@+id/customerIdLabel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/customerIdLabel"
+            android:textSize="@dimen/labelSize"
+            app:layout_constraintLeft_toRightOf="@+id/mrpLabel"
+            app:layout_constraintRight_toLeftOf="@+id/expiryLabel"
+            app:layout_constraintTop_toBottomOf="@+id/productCode" />
+
+        <TextView
+            android:id="@+id/expiryLabel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/expiryLabel"
+            android:textSize="@dimen/labelSize"
+            app:layout_constraintLeft_toRightOf="@+id/customerIdLabel"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/brandCode" />
+
+        <TextView
+            android:id="@+id/mrp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@{@string/priceFormat(product.mrp)}"
+            android:textColor="@color/contentColor"
+            android:textSize="@dimen/contentSize"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@+id/customerId"
+            app:layout_constraintTop_toBottomOf="@+id/mrpLabel"
+            tools:text="@string/mrp" />
+
+        <TextView
+            android:id="@+id/customerId"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@{product.customerId}"
+            android:textColor="@color/contentColor"
+            android:textSize="@dimen/contentSize"
+            app:layout_constraintBottom_toTopOf="@+id/lineDivider"
+            app:layout_constraintLeft_toRightOf="@+id/mrp"
+            app:layout_constraintRight_toLeftOf="@+id/expiry"
+            app:layout_constraintTop_toBottomOf="@+id/customerIdLabel"
+            tools:text="@string/customerId" />
+
+        <TextView
+            android:id="@+id/expiry"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@{String.valueOf(product.expiry)}"
+            android:textColor="@color/contentColor"
+            android:textSize="@dimen/contentSize"
+            app:layout_constraintBottom_toTopOf="@+id/lineDivider"
+            app:layout_constraintLeft_toRightOf="@id/customerId"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/expiryLabel"
+            app:layout_constraintVertical_bias="0.0"
+            tools:text="@string/expiry" />
+
+        <View
+            android:id="@+id/lineDivider"
+            android:layout_width="match_parent"
+            android:layout_height="0.8dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="5dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            android:background="@color/colorAccent"
+            app:layout_constraintTop_toBottomOf="@id/customerId" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,12 @@
+{
+  "product_201": {
+    "testProductId": "product_1",
+    "testCustomerId": "customer_1",
+    "testBrandCode": "BRD0050",
+    "testBrandName": "ABC.ST.",
+    "testProductCode": 700251,
+    "testProductDesc": "ABC  AB 50gm Sac",
+    "testMrp": 15,
+    "testExpiry": 1608461977
+  }
+}

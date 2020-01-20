@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DropShoptask</string>
+    <string name="upload">upload</string>
+    <string name="upload_resource">upload resource</string>
+    <string name="productId">productId</string>
+    <string name="customerId">customerId</string>
+    <string name="brandCode">brandCode</string>
+    <string name="brandName">brandName</string>
+    <string name="productCode">productCode</string>
+    <string name="productDesc">productDesc</string>
+    <string name="mrp">mrp</string>
+    <string name="expiry">expiry</string>
+    <string name="priceFormat">₹ %1$d</string>
+    <string name="productIdLabel">Product ID</string>
+    <string name="customerIdLabel">Customer ID</string>
+    <string name="brandCodeLabel">Brand Code</string>
+    <string name="brandNameLabel">Brand Name</string>
+    <string name="productCodeLabel">Product Code</string>
+    <string name="productDescLabel">Product Description</string>
+    <string name="mrpLabel">Price</string>
+    <string name="expiryLabel">Expiry</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520075905479",
+    "firebase_url": "https://dropshoptask.firebaseio.com",
+    "project_id": "dropshoptask",
+    "storage_bucket": "dropshoptask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520075905479:android:4c3522c25a2a08e5e6b1e2",
+        "android_client_info": {
+          "package_name": "in.dropshoptask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520075905479-e6nr51l4le2b75k71keouoavatku27bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.dropshoptask",
+            "certificate_hash": "27a7b266fade2e07972f3a202b392a25fd62d6f6"
+          }
+        },
+        {
+          "client_id": "520075905479-mhfr98re896pnljhfu91r334uhvu65i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATwp6CIaaahK4JV3d3ZvHBnnT00EwfpHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520075905479-mhfr98re896pnljhfu91r334uhvu65i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

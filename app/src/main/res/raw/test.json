@@ -1,0 +1,1502 @@
+{
+  "product_1": {
+    "productId": "product_1",
+    "customerId": "customer_1",
+    "brandCode": "BRD0050",
+    "brandName": "ABC.ST.",
+    "productCode": 700251,
+    "productDesc": "ABC  AB 50gm Sac",
+    "mrp": 15,
+    "expiry": 1608461977
+  },
+  "product_2": {
+    "productId": "product_2",
+    "customerId": "customer_1",
+    "brandCode": "BRD0050",
+    "brandName": "ABC.ST.",
+    "productCode": 700251,
+    "productDesc": "ABC  AB 50gm Sac",
+    "mrp": 17,
+    "expiry": 1608462037
+  },
+  "product_3": {
+    "productId": "product_3",
+    "customerId": "customer_1",
+    "brandCode": "BRD0050",
+    "brandName": "ABC.ST.",
+    "productCode": 700251,
+    "productDesc": "ABC  AB 50gm Sac",
+    "mrp": 17,
+    "expiry": 1608461978
+  },
+  "product_4": {
+    "productId": "product_4",
+    "customerId": "customer_1",
+    "brandCode": "BRD0050",
+    "brandName": "ABC.ST.",
+    "productCode": 700252,
+    "productDesc": "ABC  AB 400GM JAR",
+    "mrp": 99,
+    "expiry": 1608462037
+  },
+  "product_5": {
+    "productId": "product_5",
+    "customerId": "customer_1",
+    "brandCode": "BRD0050",
+    "brandName": "ABC.ST.",
+    "productCode": 700252,
+    "productDesc": "ABC  AB 400GM JAR",
+    "mrp": 99,
+    "expiry": 1608461979
+  },
+  "product_6": {
+    "productId": "product_6",
+    "customerId": "customer_1",
+    "brandCode": "BRD0050",
+    "brandName": "ABC.ST.",
+    "productCode": 700252,
+    "productDesc": "ABC  AB 400GM JAR",
+    "mrp": 105,
+    "expiry": 1608462037
+  },
+  "product_7": {
+    "productId": "product_7",
+    "customerId": "customer_1",
+    "brandCode": "BRD0050",
+    "brandName": "ABC.ST.",
+    "productCode": 700252,
+    "productDesc": "ABC  AB 400GM JAR",
+    "mrp": 105,
+    "expiry": 1608461980
+  },
+  "product_8": {
+    "productId": "product_8",
+    "customerId": "customer_1",
+    "brandCode": "BRD0050",
+    "brandName": "ABC.ST.",
+    "productCode": 700252,
+    "productDesc": "ABC  AB 400GM JAR",
+    "mrp": 125,
+    "expiry": 1608462037
+  },
+  "product_9": {
+    "productId": "product_9",
+    "customerId": "customer_1",
+    "brandCode": "BRD0050",
+    "brandName": "ABC.ST.",
+    "productCode": 700252,
+    "productDesc": "ABC  AB 400GM JAR",
+    "mrp": 125,
+    "expiry": 1608461981
+  },
+  "product_10": {
+    "productId": "product_10",
+    "customerId": "customer_1",
+    "brandCode": "BRD0050",
+    "brandName": "ABC.ST.",
+    "productCode": 700252,
+    "productDesc": "ABC  AB 400GM JAR",
+    "mrp": 125,
+    "expiry": 1608462037
+  },
+  "product_11": {
+    "productId": "product_11",
+    "customerId": "customer_1",
+    "brandCode": "BRD0050",
+    "brandName": "ABC.ST.",
+    "productCode": 700285,
+    "productDesc": "ABC  AB 200gm DUP",
+    "mrp": 55,
+    "expiry": 1608461982
+  },
+  "product_12": {
+    "productId": "product_12",
+    "customerId": "customer_1",
+    "brandCode": "BRD0050",
+    "brandName": "ABC.ST.",
+    "productCode": 700285,
+    "productDesc": "ABC  AB 200gm DUP",
+    "mrp": 65,
+    "expiry": 1608462037
+  },
+  "product_13": {
+    "productId": "product_13",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701466,
+    "productDesc": "PQR H 50ML FT-384(NEW)",
+    "mrp": 20,
+    "expiry": 1608461983
+  },
+  "product_14": {
+    "productId": "product_14",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701467,
+    "productDesc": "PQR H ED 100ml FT-192(N)",
+    "mrp": 32,
+    "expiry": 1608462037
+  },
+  "product_15": {
+    "productId": "product_15",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701467,
+    "productDesc": "PQR H ED 100ml FT-192(N)",
+    "mrp": 39,
+    "expiry": 1608461984
+  },
+  "product_16": {
+    "productId": "product_16",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701469,
+    "productDesc": "PQR H ED 500ml FT-40(N)",
+    "mrp": 140,
+    "expiry": 1608462003
+  },
+  "product_17": {
+    "productId": "product_17",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701469,
+    "productDesc": "PQR H ED 500ml FT-40(N)",
+    "mrp": 199,
+    "expiry": 1608462303
+  },
+  "product_18": {
+    "productId": "product_18",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701509,
+    "productDesc": "PQR R ED 500 EJ HIN(N)",
+    "mrp": 152,
+    "expiry": 1608462004
+  },
+  "product_19": {
+    "productId": "product_19",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701509,
+    "productDesc": "PQR R ED 500 EJ HIN(N)",
+    "mrp": 155,
+    "expiry": 1608462303
+  },
+  "product_20": {
+    "productId": "product_20",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701509,
+    "productDesc": "PQR R ED 500 EJ HIN(N)",
+    "mrp": 155,
+    "expiry": 1608462005
+  },
+  "product_21": {
+    "productId": "product_21",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701509,
+    "productDesc": "PQR R ED 500 EJ HIN(N)",
+    "mrp": 166,
+    "expiry": 1608462303
+  },
+  "product_22": {
+    "productId": "product_22",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701509,
+    "productDesc": "PQR R ED 500 EJ HIN(N)",
+    "mrp": 206,
+    "expiry": 1608462006
+  },
+  "product_23": {
+    "productId": "product_23",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701511,
+    "productDesc": "PQR R ED 1LIT PJ HIN(N)",
+    "mrp": 225,
+    "expiry": 1608462303
+  },
+  "product_24": {
+    "productId": "product_24",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701511,
+    "productDesc": "PQR R ED 1LIT PJ HIN(N)",
+    "mrp": 225,
+    "expiry": 1608462007
+  },
+  "product_25": {
+    "productId": "product_25",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701511,
+    "productDesc": "PQR R ED 1LIT PJ HIN(N)",
+    "mrp": 275,
+    "expiry": 1608462303
+  },
+  "product_26": {
+    "productId": "product_26",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701511,
+    "productDesc": "PQR R ED 1LIT PJ HIN(N)",
+    "mrp": 285,
+    "expiry": 1608462008
+  },
+  "product_27": {
+    "productId": "product_27",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 701511,
+    "productDesc": "PQR R ED 1LIT PJ HIN(N)",
+    "mrp": 380,
+    "expiry": 1608462303
+  },
+  "product_28": {
+    "productId": "product_28",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 701743,
+    "productDesc": "H&C JKM 100ML BOT",
+    "mrp": 165,
+    "expiry": 1608462009
+  },
+  "product_29": {
+    "productId": "product_29",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 701743,
+    "productDesc": "H&C JKM 100ML BOT",
+    "mrp": 180,
+    "expiry": 1608462303
+  },
+  "product_30": {
+    "productId": "product_30",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 701743,
+    "productDesc": "H&C JKM 100ML BOT",
+    "mrp": 180,
+    "expiry": 1608462010
+  },
+  "product_31": {
+    "productId": "product_31",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 701743,
+    "productDesc": "H&C JKM 100ML BOT",
+    "mrp": 190,
+    "expiry": 1608462303
+  },
+  "product_32": {
+    "productId": "product_32",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 701743,
+    "productDesc": "H&C JKM 100ML BOT",
+    "mrp": 215,
+    "expiry": 1608462011
+  },
+  "product_33": {
+    "productId": "product_33",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 701746,
+    "productDesc": "H&C JKM 50ml Bot",
+    "mrp": 90,
+    "expiry": 1608462303
+  },
+  "product_34": {
+    "productId": "product_34",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 701746,
+    "productDesc": "H&C JKM 50ml Bot",
+    "mrp": 95,
+    "expiry": 1608462012
+  },
+  "product_35": {
+    "productId": "product_35",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 701746,
+    "productDesc": "H&C JKM 50ml Bot",
+    "mrp": 95,
+    "expiry": 1608462303
+  },
+  "product_36": {
+    "productId": "product_36",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 701746,
+    "productDesc": "H&C JKM 50ml Bot",
+    "mrp": 100,
+    "expiry": 1608462013
+  },
+  "product_37": {
+    "productId": "product_37",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 701746,
+    "productDesc": "H&C JKM 50ml Bot",
+    "mrp": 100,
+    "expiry": 1608462303
+  },
+  "product_38": {
+    "productId": "product_38",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 701746,
+    "productDesc": "H&C JKM 50ml Bot",
+    "mrp": 110,
+    "expiry": 1608462014
+  },
+  "product_39": {
+    "productId": "product_39",
+    "customerId": "customer_1",
+    "brandCode": "BRD0036",
+    "brandName": "PQR FLEX",
+    "productCode": 701935,
+    "productDesc": "PQR ED 100 Flexi High Rate(N)",
+    "mrp": 16,
+    "expiry": 1608462303
+  },
+  "product_40": {
+    "productId": "product_40",
+    "customerId": "customer_1",
+    "brandCode": "BRD0036",
+    "brandName": "PQR FLEX",
+    "productCode": 701935,
+    "productDesc": "PQR ED 100 Flexi High Rate(N)",
+    "mrp": 24,
+    "expiry": 1608461984
+  },
+  "product_41": {
+    "productId": "product_41",
+    "customerId": "customer_1",
+    "brandCode": "BRD0032",
+    "brandName": "P-ADVANCE",
+    "productCode": 701969,
+    "productDesc": "PQR ADVANSED 175ML BOT",
+    "mrp": 80,
+    "expiry": 1608462104
+  },
+  "product_42": {
+    "productId": "product_42",
+    "customerId": "customer_1",
+    "brandCode": "BRD0032",
+    "brandName": "P-ADVANCE",
+    "productCode": 701969,
+    "productDesc": "PQR ADVANSED 175ML BOT",
+    "mrp": 95,
+    "expiry": 1608461985
+  },
+  "product_43": {
+    "productId": "product_43",
+    "customerId": "customer_1",
+    "brandCode": "BRD0068",
+    "brandName": "PADV-HRCR",
+    "productCode": 702357,
+    "productDesc": "PAR ADVANCE CREAM 100G JAR",
+    "mrp": 72,
+    "expiry": 1608462104
+  },
+  "product_44": {
+    "productId": "product_44",
+    "customerId": "customer_1",
+    "brandCode": "BRD0068",
+    "brandName": "PADV-HRCR",
+    "productCode": 702357,
+    "productDesc": "PAR ADVANCE CREAM 100G JAR",
+    "mrp": 77,
+    "expiry": 1608461986
+  },
+  "product_45": {
+    "productId": "product_45",
+    "customerId": "customer_1",
+    "brandCode": "BRD0109",
+    "brandName": "MALT-NATU",
+    "productCode": 702692,
+    "productDesc": "MALT NATURAL 50ML BOT",
+    "mrp": 50,
+    "expiry": 1608462104
+  },
+  "product_46": {
+    "productId": "product_46",
+    "customerId": "customer_1",
+    "brandCode": "BRD0109",
+    "brandName": "MALT-NATU",
+    "productCode": 702692,
+    "productDesc": "MALT NATURAL 50ML BOT",
+    "mrp": 50,
+    "expiry": 1608461987
+  },
+  "product_47": {
+    "productId": "product_47",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 702953,
+    "productDesc": "H&C S N S 18ML (MT)",
+    "mrp": 45,
+    "expiry": 1608462104
+  },
+  "product_48": {
+    "productId": "product_48",
+    "customerId": "customer_1",
+    "brandCode": "BRD0074",
+    "brandName": "HC SNS",
+    "productCode": 702953,
+    "productDesc": "H&C S N S 18ML (MT)",
+    "mrp": 45,
+    "expiry": 1608461988
+  },
+  "product_49": {
+    "productId": "product_49",
+    "customerId": "customer_1",
+    "brandCode": "BRD0067",
+    "brandName": "PADV-HRAD",
+    "productCode": 703267,
+    "productDesc": "PAR ADVANCE CREAM AD100G JAR",
+    "mrp": 88,
+    "expiry": 1608462104
+  },
+  "product_50": {
+    "productId": "product_50",
+    "customerId": "customer_1",
+    "brandCode": "BRD0067",
+    "brandName": "PADV-HRAD",
+    "productCode": 703268,
+    "productDesc": "PAR ADVANCE CREAM AD50GM TUBE",
+    "mrp": 44,
+    "expiry": 1608461989
+  },
+  "product_51": {
+    "productId": "product_51",
+    "customerId": "customer_1",
+    "brandCode": "BRD0032",
+    "brandName": "P-ADVANCE",
+    "productCode": 703297,
+    "productDesc": "PQR ADV 300ml",
+    "mrp": 113,
+    "expiry": 1608462104
+  },
+  "product_52": {
+    "productId": "product_52",
+    "customerId": "customer_1",
+    "brandCode": "BRD0032",
+    "brandName": "P-ADVANCE",
+    "productCode": 703297,
+    "productDesc": "PQR ADV 300ml",
+    "mrp": 135,
+    "expiry": 1608461990
+  },
+  "product_53": {
+    "productId": "product_53",
+    "customerId": "customer_1",
+    "brandCode": "BRD0032",
+    "brandName": "P-ADVANCE",
+    "productCode": 703297,
+    "productDesc": "PQR ADV 300ml",
+    "mrp": 135,
+    "expiry": 1608462104
+  },
+  "product_54": {
+    "productId": "product_54",
+    "customerId": "customer_1",
+    "brandCode": "BRD0049",
+    "brandName": "REV.LQDST",
+    "productCode": 703358,
+    "productDesc": "Revive Liquid 200gm-R (72)",
+    "mrp": 71,
+    "expiry": 1608461991
+  },
+  "product_55": {
+    "productId": "product_55",
+    "customerId": "customer_1",
+    "brandCode": "BRD0013",
+    "brandName": "SAFF ACTV",
+    "productCode": 703459,
+    "productDesc": "SAFF ACTIV 1 LTR PCH",
+    "mrp": 135,
+    "expiry": 1608462104
+  },
+  "product_56": {
+    "productId": "product_56",
+    "customerId": "customer_1",
+    "brandCode": "BRD0013",
+    "brandName": "SAFF ACTV",
+    "productCode": 703461,
+    "productDesc": "SAFF ACTIV 5 LTR JAR",
+    "mrp": 580,
+    "expiry": 1608461992
+  },
+  "product_57": {
+    "productId": "product_57",
+    "customerId": "customer_1",
+    "brandCode": "BRD0013",
+    "brandName": "SAFF ACTV",
+    "productCode": 703461,
+    "productDesc": "SAFF ACTIV 5 LTR JAR",
+    "mrp": 655,
+    "expiry": 1608462104
+  },
+  "product_58": {
+    "productId": "product_58",
+    "customerId": "customer_1",
+    "brandCode": "BRD0013",
+    "brandName": "SAFF ACTV",
+    "productCode": 703461,
+    "productDesc": "SAFF ACTIV 5 LTR JAR",
+    "mrp": 680,
+    "expiry": 1608461993
+  },
+  "product_59": {
+    "productId": "product_59",
+    "customerId": "customer_1",
+    "brandCode": "BRD0013",
+    "brandName": "SAFF ACTV",
+    "productCode": 704586,
+    "productDesc": "SAF ACTIV 5 LT PJ (1 LT SAFF ACTIV PCH)",
+    "mrp": 680,
+    "expiry": 1608462104
+  },
+  "product_60": {
+    "productId": "product_60",
+    "customerId": "customer_1",
+    "brandCode": "BRD0109",
+    "brandName": "MALT-NATU",
+    "productCode": 704663,
+    "productDesc": "MALT NATURAL 9ML SAC-H (480)",
+    "mrp": 10,
+    "expiry": 1608461994
+  },
+  "product_61": {
+    "productId": "product_61",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 704714,
+    "productDesc": "PQR H ED 250 ML FT",
+    "mrp": 77,
+    "expiry": 1608462104
+  },
+  "product_62": {
+    "productId": "product_62",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 704714,
+    "productDesc": "PQR H ED 250 ML FT",
+    "mrp": 105,
+    "expiry": 1608461995
+  },
+  "product_63": {
+    "productId": "product_63",
+    "customerId": "customer_1",
+    "brandCode": "BRD0102",
+    "brandName": "PADV-HOT",
+    "productCode": 704726,
+    "productDesc": "Par Adv Ayur 300ml Hot Oil",
+    "mrp": 160,
+    "expiry": 1608462104
+  },
+  "product_64": {
+    "productId": "product_64",
+    "customerId": "customer_1",
+    "brandCode": "BRD0102",
+    "brandName": "PADV-HOT",
+    "productCode": 704726,
+    "productDesc": "Par Adv Ayur 300ml Hot Oil",
+    "mrp": 160,
+    "expiry": 1608461996
+  },
+  "product_65": {
+    "productId": "product_65",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 704729,
+    "productDesc": "PQR H ED 250 ML EJ",
+    "mrp": 82,
+    "expiry": 1608462104
+  },
+  "product_66": {
+    "productId": "product_66",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 704729,
+    "productDesc": "PQR H ED 250 ML EJ",
+    "mrp": 110,
+    "expiry": 1608461997
+  },
+  "product_67": {
+    "productId": "product_67",
+    "customerId": "customer_1",
+    "brandCode": "BRD0102",
+    "brandName": "PADV-HOT",
+    "productCode": 704730,
+    "productDesc": "Par Adv Ayur 190ml Hot Oil",
+    "mrp": 110,
+    "expiry": 1608462104
+  },
+  "product_68": {
+    "productId": "product_68",
+    "customerId": "customer_1",
+    "brandCode": "BRD0102",
+    "brandName": "PADV-HOT",
+    "productCode": 704731,
+    "productDesc": "PAR ADV AYUR 90ML HOT OIL",
+    "mrp": 55,
+    "expiry": 1608461998
+  },
+  "product_69": {
+    "productId": "product_69",
+    "customerId": "customer_1",
+    "brandCode": "BRD0102",
+    "brandName": "PADV-HOT",
+    "productCode": 704731,
+    "productDesc": "PAR ADV AYUR 90ML HOT OIL",
+    "mrp": 55,
+    "expiry": 1608462104
+  },
+  "product_70": {
+    "productId": "product_70",
+    "customerId": "customer_1",
+    "brandCode": "BRD0108",
+    "brandName": "MALO-NATU",
+    "productCode": 704991,
+    "productDesc": "MALO NAT 50ML BOT (80)",
+    "mrp": 32,
+    "expiry": 1608461999
+  },
+  "product_71": {
+    "productId": "product_71",
+    "customerId": "customer_1",
+    "brandCode": "BRD0108",
+    "brandName": "MALO-NATU",
+    "productCode": 704991,
+    "productDesc": "MALO NAT 50ML BOT (80)",
+    "mrp": 32,
+    "expiry": 1608462104
+  },
+  "product_72": {
+    "productId": "product_72",
+    "customerId": "customer_1",
+    "brandCode": "BRD0005",
+    "brandName": "SAFF OATS",
+    "productCode": 705056,
+    "productDesc": "SAFFOLA OATS 400gms",
+    "mrp": 77,
+    "expiry": 1608462000
+  },
+  "product_73": {
+    "productId": "product_73",
+    "customerId": "customer_1",
+    "brandCode": "BRD0005",
+    "brandName": "SAFF OATS",
+    "productCode": 705056,
+    "productDesc": "SAFFOLA OATS 400gms",
+    "mrp": 77,
+    "expiry": 1608462104
+  },
+  "product_74": {
+    "productId": "product_74",
+    "customerId": "customer_1",
+    "brandCode": "BRD0005",
+    "brandName": "SAFF OATS",
+    "productCode": 705056,
+    "productDesc": "SAFFOLA OATS 400gms",
+    "mrp": 77,
+    "expiry": 1608462001
+  },
+  "product_75": {
+    "productId": "product_75",
+    "customerId": "customer_1",
+    "brandCode": "BRD0038",
+    "brandName": "PQR(R)",
+    "productCode": 705058,
+    "productDesc": "PQR H ED 175ml FT",
+    "mrp": 69,
+    "expiry": 1608462104
+  },
+  "product_76": {
+    "productId": "product_76",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 705163,
+    "productDesc": "PAR ADV 100ML BODY LOTION (DRY)",
+    "mrp": 60,
+    "expiry": 1608462002
+  },
+  "product_77": {
+    "productId": "product_77",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 705163,
+    "productDesc": "PAR ADV 100ML BODY LOTION (DRY)",
+    "mrp": 60,
+    "expiry": 1608462104
+  },
+  "product_78": {
+    "productId": "product_78",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 705164,
+    "productDesc": "PAR ADV 250ML BODY LOTION (DRY)",
+    "mrp": 160,
+    "expiry": 1608462003
+  },
+  "product_79": {
+    "productId": "product_79",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 705164,
+    "productDesc": "PAR ADV 250ML BODY LOTION (DRY)",
+    "mrp": 160,
+    "expiry": 1608462104
+  },
+  "product_80": {
+    "productId": "product_80",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 705164,
+    "productDesc": "PAR ADV 250ML BODY LOTION (DRY)",
+    "mrp": 180,
+    "expiry": 1608462004
+  },
+  "product_81": {
+    "productId": "product_81",
+    "customerId": "customer_1",
+    "brandCode": "BRD0104",
+    "brandName": "PADVJAS-R",
+    "productCode": 705380,
+    "productDesc": "PAR ADV JASMINE 200ml BOT (NEW)",
+    "mrp": 75,
+    "expiry": 1608462104
+  },
+  "product_82": {
+    "productId": "product_82",
+    "customerId": "customer_1",
+    "brandCode": "BRD0104",
+    "brandName": "PADVJAS-R",
+    "productCode": 705405,
+    "productDesc": "PAR ADV JASMINE 300ml BOT (NEW)",
+    "mrp": 92,
+    "expiry": 1608462005
+  },
+  "product_83": {
+    "productId": "product_83",
+    "customerId": "customer_1",
+    "brandCode": "BRD0104",
+    "brandName": "PADVJAS-R",
+    "productCode": 705405,
+    "productDesc": "PAR ADV JASMINE 300ml BOT (NEW)",
+    "mrp": 99,
+    "expiry": 1608462104
+  },
+  "product_84": {
+    "productId": "product_84",
+    "customerId": "customer_1",
+    "brandCode": "BRD0104",
+    "brandName": "PADVJAS-R",
+    "productCode": 705405,
+    "productDesc": "PAR ADV JASMINE 300ml BOT (NEW)",
+    "mrp": 120,
+    "expiry": 1608462006
+  },
+  "product_85": {
+    "productId": "product_85",
+    "customerId": "customer_1",
+    "brandCode": "BRD0104",
+    "brandName": "PADVJAS-R",
+    "productCode": 705405,
+    "productDesc": "PAR ADV JASMINE 300ml BOT (NEW)",
+    "mrp": 120,
+    "expiry": 1608462104
+  },
+  "product_86": {
+    "productId": "product_86",
+    "customerId": "customer_1",
+    "brandCode": "BRD0104",
+    "brandName": "PADVJAS-R",
+    "productCode": 705405,
+    "productDesc": "PAR ADV JASMINE 300ml BOT (NEW)",
+    "mrp": 130,
+    "expiry": 1608462007
+  },
+  "product_87": {
+    "productId": "product_87",
+    "customerId": "customer_1",
+    "brandCode": "BRD0036",
+    "brandName": "PQR FLEX",
+    "productCode": 705472,
+    "productDesc": "PARACHUTE FLEXI 40ML PCH",
+    "mrp": 15,
+    "expiry": 1608462104
+  },
+  "product_88": {
+    "productId": "product_88",
+    "customerId": "customer_1",
+    "brandCode": "BRD0053",
+    "brandName": "PA-SCLTH",
+    "productCode": 705648,
+    "productDesc": "Par Adv Scalp Therapie 100ml Bot",
+    "mrp": 137,
+    "expiry": 1608462008
+  },
+  "product_89": {
+    "productId": "product_89",
+    "customerId": "customer_1",
+    "brandCode": "BRD0053",
+    "brandName": "PA-SCLTH",
+    "productCode": 705648,
+    "productDesc": "Par Adv Scalp Therapie 100ml Bot",
+    "mrp": 137,
+    "expiry": 1608462104
+  },
+  "product_90": {
+    "productId": "product_90",
+    "customerId": "customer_1",
+    "brandCode": "BRD0053",
+    "brandName": "PA-SCLTH",
+    "productCode": 705648,
+    "productDesc": "Par Adv Scalp Therapie 100ml Bot",
+    "mrp": 150,
+    "expiry": 1608462009
+  },
+  "product_91": {
+    "productId": "product_91",
+    "customerId": "customer_1",
+    "brandCode": "BRD0053",
+    "brandName": "PA-SCLTH",
+    "productCode": 705648,
+    "productDesc": "Par Adv Scalp Therapie 100ml Bot",
+    "mrp": 150,
+    "expiry": 1608462104
+  },
+  "product_92": {
+    "productId": "product_92",
+    "customerId": "customer_1",
+    "brandCode": "BRD0053",
+    "brandName": "PA-SCLTH",
+    "productCode": 705649,
+    "productDesc": "Par Adv Scalp Therapie 190ml Bot",
+    "mrp": 225,
+    "expiry": 1608462010
+  },
+  "product_93": {
+    "productId": "product_93",
+    "customerId": "customer_1",
+    "brandCode": "BRD0053",
+    "brandName": "PA-SCLTH",
+    "productCode": 705649,
+    "productDesc": "Par Adv Scalp Therapie 190ml Bot",
+    "mrp": 245,
+    "expiry": 1608462104
+  },
+  "product_94": {
+    "productId": "product_94",
+    "customerId": "customer_1",
+    "brandCode": "BRD0053",
+    "brandName": "PA-SCLTH",
+    "productCode": 705649,
+    "productDesc": "Par Adv Scalp Therapie 190ml Bot",
+    "mrp": 245,
+    "expiry": 1608462011
+  },
+  "product_95": {
+    "productId": "product_95",
+    "customerId": "customer_1",
+    "brandCode": "BRD0053",
+    "brandName": "PA-SCLTH",
+    "productCode": 705649,
+    "productDesc": "Par Adv Scalp Therapie 190ml Bot",
+    "mrp": 270,
+    "expiry": 1608462104
+  },
+  "product_96": {
+    "productId": "product_96",
+    "customerId": "customer_1",
+    "brandCode": "BRD0053",
+    "brandName": "PA-SCLTH",
+    "productCode": 705649,
+    "productDesc": "Par Adv Scalp Therapie 190ml Bot",
+    "mrp": 270,
+    "expiry": 1608462012
+  },
+  "product_97": {
+    "productId": "product_97",
+    "customerId": "customer_1",
+    "brandCode": "BRD0049",
+    "brandName": "REV.LQDST",
+    "productCode": 705709,
+    "productDesc": "ABC  LIQUID 400gm BOT",
+    "mrp": 124,
+    "expiry": 1608462104
+  },
+  "product_98": {
+    "productId": "product_98",
+    "customerId": "customer_1",
+    "brandCode": "BRD0049",
+    "brandName": "REV.LQDST",
+    "productCode": 705709,
+    "productDesc": "ABC  LIQUID 400gm BOT",
+    "mrp": 129,
+    "expiry": 1608462013
+  },
+  "product_99": {
+    "productId": "product_99",
+    "customerId": "customer_1",
+    "brandCode": "BRD0022",
+    "brandName": "PA-BDYSMR",
+    "productCode": 705957,
+    "productDesc": "PA 100ML(SUM FRESH)BDYLTN",
+    "mrp": 70,
+    "expiry": 1608462104
+  },
+  "product_100": {
+    "productId": "product_100",
+    "customerId": "customer_1",
+    "brandCode": "BRD0022",
+    "brandName": "PA-BDYSMR",
+    "productCode": 705957,
+    "productDesc": "PA 100ML(SUM FRESH)BDYLTN",
+    "mrp": 90,
+    "expiry": 1608462014
+  },
+  "product_101": {
+    "productId": "product_101",
+    "customerId": "customer_1",
+    "brandCode": "BRD0022",
+    "brandName": "PA-BDYSMR",
+    "productCode": 705957,
+    "productDesc": "PA 100ML(SUM FRESH)BDYLTN",
+    "mrp": 90,
+    "expiry": 1608462104
+  },
+  "product_102": {
+    "productId": "product_102",
+    "customerId": "customer_1",
+    "brandCode": "BRD0022",
+    "brandName": "PA-BDYSMR",
+    "productCode": 705958,
+    "productDesc": "PA 250ML(SUM FRESH)BDYLTN",
+    "mrp": 175,
+    "expiry": 1608462015
+  },
+  "product_103": {
+    "productId": "product_103",
+    "customerId": "customer_1",
+    "brandCode": "BRD0022",
+    "brandName": "PA-BDYSMR",
+    "productCode": 705958,
+    "productDesc": "PA 250ML(SUM FRESH)BDYLTN",
+    "mrp": 190,
+    "expiry": 1608462104
+  },
+  "product_104": {
+    "productId": "product_104",
+    "customerId": "customer_1",
+    "brandCode": "BRD0008",
+    "brandName": "SFOATS-FL",
+    "productCode": 705966,
+    "productDesc": "SFOATS 43G MAS & COR(4+1-CO)",
+    "mrp": 60,
+    "expiry": 1608462016
+  },
+  "product_105": {
+    "productId": "product_105",
+    "customerId": "customer_1",
+    "brandCode": "BRD0094",
+    "brandName": "ADV-AHO-R",
+    "productCode": 706124,
+    "productDesc": "PA 190ml AYUR HAIR OIL-NEW",
+    "mrp": 118,
+    "expiry": 1608462104
+  },
+  "product_106": {
+    "productId": "product_106",
+    "customerId": "customer_1",
+    "brandCode": "BRD0094",
+    "brandName": "ADV-AHO-R",
+    "productCode": 706125,
+    "productDesc": "PA 95ml AYUR HAIR OIL-NEW",
+    "mrp": 62,
+    "expiry": 1608462017
+  },
+  "product_107": {
+    "productId": "product_107",
+    "customerId": "customer_1",
+    "brandCode": "BRD0094",
+    "brandName": "ADV-AHO-R",
+    "productCode": 706126,
+    "productDesc": "PA 45ml AYUR HAIR OIL-NEW",
+    "mrp": 33,
+    "expiry": 1608462104
+  },
+  "product_108": {
+    "productId": "product_108",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706245,
+    "productDesc": "SW HrGel Cool 50ml Tube",
+    "mrp": 50,
+    "expiry": 1608462018
+  },
+  "product_109": {
+    "productId": "product_109",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706245,
+    "productDesc": "SW HrGel Cool 50ml Tube",
+    "mrp": 50,
+    "expiry": 1608462104
+  },
+  "product_110": {
+    "productId": "product_110",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706245,
+    "productDesc": "SW HrGel Cool 50ml Tube",
+    "mrp": 50,
+    "expiry": 1608462019
+  },
+  "product_111": {
+    "productId": "product_111",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706246,
+    "productDesc": "SW HRGEL VERT 50ML TUBE",
+    "mrp": 50,
+    "expiry": 1608462104
+  },
+  "product_112": {
+    "productId": "product_112",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706246,
+    "productDesc": "SW HRGEL VERT 50ML TUBE",
+    "mrp": 50,
+    "expiry": 1608462020
+  },
+  "product_113": {
+    "productId": "product_113",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706247,
+    "productDesc": "SW HRGEL WL 50ML TUBE",
+    "mrp": 50,
+    "expiry": 1608462104
+  },
+  "product_114": {
+    "productId": "product_114",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706247,
+    "productDesc": "SW HRGEL WL 50ML TUBE",
+    "mrp": 50,
+    "expiry": 1608462021
+  },
+  "product_115": {
+    "productId": "product_115",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706248,
+    "productDesc": "SW HrGel Cool 100ml Tube",
+    "mrp": 95,
+    "expiry": 1608462104
+  },
+  "product_116": {
+    "productId": "product_116",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706248,
+    "productDesc": "SW HrGel Cool 100ml Tube",
+    "mrp": 100,
+    "expiry": 1608462022
+  },
+  "product_117": {
+    "productId": "product_117",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706249,
+    "productDesc": "SW HrGel Vert 100ml Tube",
+    "mrp": 100,
+    "expiry": 1608462104
+  },
+  "product_118": {
+    "productId": "product_118",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706250,
+    "productDesc": "SW HRGEL WL 100ML TUBE",
+    "mrp": 95,
+    "expiry": 1608462023
+  },
+  "product_119": {
+    "productId": "product_119",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706250,
+    "productDesc": "SW HRGEL WL 100ML TUBE",
+    "mrp": 95,
+    "expiry": 1608462104
+  },
+  "product_120": {
+    "productId": "product_120",
+    "customerId": "customer_1",
+    "brandCode": "BRD0071",
+    "brandName": "SW HRGEL",
+    "productCode": 706250,
+    "productDesc": "SW HRGEL WL 100ML TUBE",
+    "mrp": 100,
+    "expiry": 1608462024
+  },
+  "product_121": {
+    "productId": "product_121",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 706457,
+    "productDesc": "PA 400ML BDYLOT(SOFT TOUCH)",
+    "mrp": 275,
+    "expiry": 1608462104
+  },
+  "product_122": {
+    "productId": "product_122",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 706459,
+    "productDesc": "PA 400ml BDYLOT(DEEP NOURISH)",
+    "mrp": 160,
+    "expiry": 1608462025
+  },
+  "product_123": {
+    "productId": "product_123",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 706462,
+    "productDesc": "PA 100ML BDYLOT(DEEP NOURISH)",
+    "mrp": 60,
+    "expiry": 1608462104
+  },
+  "product_124": {
+    "productId": "product_124",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 706464,
+    "productDesc": "PA 250ml BDYLOT(DEEP NOURISH)",
+    "mrp": 150,
+    "expiry": 1608462026
+  },
+  "product_125": {
+    "productId": "product_125",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 706464,
+    "productDesc": "PA 250ml BDYLOT(DEEP NOURISH)",
+    "mrp": 160,
+    "expiry": 1608462104
+  },
+  "product_126": {
+    "productId": "product_126",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 706464,
+    "productDesc": "PA 250ml BDYLOT(DEEP NOURISH)",
+    "mrp": 180,
+    "expiry": 1608462027
+  },
+  "product_127": {
+    "productId": "product_127",
+    "customerId": "customer_1",
+    "brandCode": "BRD0086",
+    "brandName": "H&C",
+    "productCode": 706558,
+    "productDesc": "H&C Silk 50ml-NEW SHAPE",
+    "mrp": 25,
+    "expiry": 1608462104
+  },
+  "product_128": {
+    "productId": "product_128",
+    "customerId": "customer_1",
+    "brandCode": "BRD0086",
+    "brandName": "H&C",
+    "productCode": 706558,
+    "productDesc": "H&C Silk 50ml-NEW SHAPE",
+    "mrp": 27,
+    "expiry": 1608462028
+  },
+  "product_129": {
+    "productId": "product_129",
+    "customerId": "customer_1",
+    "brandCode": "BRD0086",
+    "brandName": "H&C",
+    "productCode": 706559,
+    "productDesc": "H&C Silk 100ML-NEW SHAPE",
+    "mrp": 45,
+    "expiry": 1608462104
+  },
+  "product_130": {
+    "productId": "product_130",
+    "customerId": "customer_1",
+    "brandCode": "BRD0086",
+    "brandName": "H&C",
+    "productCode": 706559,
+    "productDesc": "H&C Silk 100ML-NEW SHAPE",
+    "mrp": 50,
+    "expiry": 1608462029
+  },
+  "product_131": {
+    "productId": "product_131",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 706665,
+    "productDesc": "PA 100ML BL(SOFT TOUCH)-PRICE OFF",
+    "mrp": 60,
+    "expiry": 1608462104
+  },
+  "product_132": {
+    "productId": "product_132",
+    "customerId": "customer_1",
+    "brandCode": "BRD0020",
+    "brandName": "PA-BDYLOT",
+    "productCode": 706666,
+    "productDesc": "PA 100ML BL(DEEP NOURISH)-PRICE OFF",
+    "mrp": 60,
+    "expiry": 1608462030
+  },
+  "product_133": {
+    "productId": "product_133",
+    "customerId": "customer_1",
+    "brandCode": "BRD0016",
+    "brandName": "SAFF KOCO",
+    "productCode": 706693,
+    "productDesc": "SAF TASTY 5 LT PJ - NEW",
+    "mrp": 580,
+    "expiry": 1608462104
+  },
+  "product_134": {
+    "productId": "product_134",
+    "customerId": "customer_1",
+    "brandCode": "BRD0016",
+    "brandName": "SAFF KOCO",
+    "productCode": 706720,
+    "productDesc": "SAF KOCO 1LT PCH NW(PRC.OFF-South)",
+    "mrp": 110,
+    "expiry": 1608462031
+  },
+  "product_135": {
+    "productId": "product_135",
+    "customerId": "customer_1",
+    "brandCode": "BRD0016",
+    "brandName": "SAFF KOCO",
+    "productCode": 706720,
+    "productDesc": "SAF KOCO 1LT PCH NW(PRC.OFF-South)",
+    "mrp": 115,
+    "expiry": 1608462104
+  },
+  "product_136": {
+    "productId": "product_136",
+    "customerId": "customer_1",
+    "brandCode": "BRD0016",
+    "brandName": "SAFF KOCO",
+    "productCode": 706720,
+    "productDesc": "SAF KOCO 1LT PCH NW(PRC.OFF-South)",
+    "mrp": 115,
+    "expiry": 1608462032
+  },
+  "product_137": {
+    "productId": "product_137",
+    "customerId": "customer_1",
+    "brandCode": "BRD0016",
+    "brandName": "SAFF KOCO",
+    "productCode": 706721,
+    "productDesc": "SAF KOCO 5LT PJ NW(PRC.OFF-SOUTH)",
+    "mrp": 580,
+    "expiry": 1608462104
+  },
+  "product_138": {
+    "productId": "product_138",
+    "customerId": "customer_1",
+    "brandCode": "BRD0016",
+    "brandName": "SAFF KOCO",
+    "productCode": 706721,
+    "productDesc": "SAF KOCO 5LT PJ NW(PRC.OFF-SOUTH)",
+    "mrp": 580,
+    "expiry": 1608462033
+  },
+  "product_139": {
+    "productId": "product_139",
+    "customerId": "customer_1",
+    "brandCode": "BRD0014",
+    "brandName": "SAFF GOLD",
+    "productCode": 706733,
+    "productDesc": "SAFF GOLD PCH 1LTR(PRICE OFF)",
+    "mrp": 130,
+    "expiry": 1608462104
+  },
+  "product_140": {
+    "productId": "product_140",
+    "customerId": "customer_1",
+    "brandCode": "BRD0014",
+    "brandName": "SAFF GOLD",
+    "productCode": 706733,
+    "productDesc": "SAFF GOLD PCH 1LTR(PRICE OFF)",
+    "mrp": 139,
+    "expiry": 1608462034
+  },
+  "product_141": {
+    "productId": "product_141",
+    "customerId": "customer_1",
+    "brandCode": "BRD0014",
+    "brandName": "SAFF GOLD",
+    "productCode": 706733,
+    "productDesc": "SAFF GOLD PCH 1LTR(PRICE OFF)",
+    "mrp": 139,
+    "expiry": 1608462104
+  },
+  "product_142": {
+    "productId": "product_142",
+    "customerId": "customer_1",
+    "brandCode": "BRD0022",
+    "brandName": "PA-BDYSMR",
+    "productCode": 706764,
+    "productDesc": "PA 400ML(SUM FRESH)BDYLTN",
+    "mrp": 250,
+    "expiry": 1608462035
+  },
+  "product_143": {
+    "productId": "product_143",
+    "customerId": "customer_1",
+    "brandCode": "BRD0022",
+    "brandName": "PA-BDYSMR",
+    "productCode": 706764,
+    "productDesc": "PA 400ML(SUM FRESH)BDYLTN",
+    "mrp": 265,
+    "expiry": 1608462104
+  },
+  "product_144": {
+    "productId": "product_144",
+    "customerId": "customer_1",
+    "brandCode": "BRD0014",
+    "brandName": "SAFF GOLD",
+    "productCode": 706923,
+    "productDesc": "SAFFOLA GOLD 5 LTR JAR-NEW",
+    "mrp": 775,
+    "expiry": 1608462036
+  },
+  "product_145": {
+    "productId": "product_145",
+    "customerId": "customer_1",
+    "brandCode": "BRD0014",
+    "brandName": "SAFF GOLD",
+    "productCode": 706924,
+    "productDesc": "SAFF GOLD 2 LTR JAR-NEW",
+    "mrp": 315,
+    "expiry": 1608462104
+  },
+  "product_146": {
+    "productId": "product_146",
+    "customerId": "customer_1",
+    "brandCode": "BRD0014",
+    "brandName": "SAFF GOLD",
+    "productCode": 706924,
+    "productDesc": "SAFF GOLD 2 LTR JAR-NEW",
+    "mrp": 325,
+    "expiry": 1608462037
+  },
+  "product_147": {
+    "productId": "product_147",
+    "customerId": "customer_1",
+    "brandCode": "BRD0014",
+    "brandName": "SAFF GOLD",
+    "productCode": 706925,
+    "productDesc": "SAFF GOLD PCH 1LTR-NEW",
+    "mrp": 159,
+    "expiry": 1608462104
+  },
+  "product_148": {
+    "productId": "product_148",
+    "customerId": "customer_1",
+    "brandCode": "BRD0094",
+    "brandName": "ADV-AHO-R",
+    "productCode": 706981,
+    "productDesc": "PADV 300ML AYUR HAIR OIL",
+    "mrp": 175,
+    "expiry": 1608462038
+  },
+  "product_149": {
+    "productId": "product_149",
+    "customerId": "customer_1",
+    "brandCode": "BRD0005",
+    "brandName": "SAFF OATS",
+    "productCode": 707017,
+    "productDesc": "SAFFOLA OATS 1KG PCH",
+    "mrp": 180,
+    "expiry": 1608462104
+  },
+  "product_150": {
+    "productId": "product_150",
+    "customerId": "customer_1",
+    "brandCode": "BRD0079",
+    "brandName": "LIVON-CCC",
+    "productCode": 707070,
+    "productDesc": "LIVON-CCC BURGUNDY SP 36ML",
+    "mrp": 39,
+    "expiry": 1608462039
+  }
+}
